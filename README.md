@@ -1,7 +1,7 @@
 
 # Eloeunice 
 
-## 💻 Desenvolvedora Back-End | API | SQL | Automação de Processos
+## 💻 Futura Desenvolvedora Back-End | API | SQL | Node.js
 
 Atualmente em transição para o desenvolvimento back-end, com foco em **APIs, SQL e automação de processos**.  
 Tenho uma base em **Análise de Dados e BI**, o que me permite integrar desenvolvimento e tomada de decisões estratégicas.  
