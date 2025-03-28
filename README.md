@@ -32,15 +32,6 @@ Busco aprimorar minhas habilidades em **Node.js, Express, MongoDB e PostgreSQL**
 ### 📚 **API de Biblioteca**  
 Desenvolvi uma API REST para gerenciamento de livros, autores e empréstimos. Utilizei **Node.js, Express e MongoDB**, além de testes no **Postman** para garantir a funcionalidade das rotas.  
 🔗 [Biblioteca Express](https://github.com/Eloeunice/Biblioteca-Express)  
-
-### 📊 **Dashboard Financeiro com Power BI**  
-Criei um **dashboard interativo** para análise de despesas e receitas, permitindo insights financeiros estratégicos.  
-🔗 [Repositório no GitHub](#)  
-
-### 🕵️‍♀️ **Web Scraping para Coleta de Dados**  
-Automação com **Python e BeautifulSoup** para extrair dados de sites e gerar relatórios customizados.  
-🔗 [Repositório no GitHub](#)  
-
 ---
 
 ## 📈 GitHub Stats  
