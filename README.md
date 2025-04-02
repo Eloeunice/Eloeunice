@@ -35,6 +35,13 @@ Desenvolvi uma API REST para gerenciamento de livros, autores e empréstimos. Ut
 🔗 [Biblioteca Express](https://github.com/Eloeunice/Biblioteca-Express)  
 ---
 
+### 🚀 **Logic Exercises Automation**
+
+Projeto de automação para envio diário e armazenamento de exercícios de lógica de programação. A automação é configurável por categoria e dificuldade, com armazenamento no MongoDB, GitHub e Notion, além de integração com o WhatsApp.
+
+🔗 [Logic Exercises Automation](https://github.com/Eloeunice/logic-exercises-automation)
+---
+
 ## 📈 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eloeunice&theme=transparent&bg_color=90EE90&border_color=000C&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Eloeunice&layout=compact&bg_color=000&border_color=FFFFFF&title_color=90EE90&text_color=FFF)  
