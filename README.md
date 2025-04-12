@@ -7,7 +7,7 @@ Atualmente em transição para o desenvolvimento back-end, com foco em **APIs, S
 Tenho uma base em **Análise de Dados e BI**, o que me permite integrar desenvolvimento e tomada de decisões estratégicas.  
 Busco aprimorar minhas habilidades em **Node.js, Express, MongoDB e PostgreSQL**.  
 
-✨ Apaixonada por aprender e usar o conhecimento de forma prática em prol de outros.
+✨ Apaixonada por aprender e criar projetos a partir de necessidades observadas.
 
 ---
 
