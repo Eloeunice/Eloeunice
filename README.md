@@ -32,14 +32,14 @@ Busco aprimorar minhas habilidades em **Node.js, Express, MongoDB e PostgreSQL**
 ### 📚 **API de Biblioteca**  
 Desenvolvi uma API REST para gerenciamento de livros, autores e empréstimos. Utilizei **Node.js, Express e MongoDB**, além de testes no **Postman** para garantir a funcionalidade das rotas.  
 
-🔗 [Biblioteca Express](https://github.com/Eloeunice/Biblioteca-Express)  
+🔗[Biblioteca Express](https://github.com/Eloeunice/Biblioteca-Express)  
 ---
 
 ### 🚀 **Logic Exercises Automation**
 
-Projeto de automação para envio diário e armazenamento de exercícios de lógica de programação. A automação é configurável por categoria e dificuldade, com armazenamento no MongoDB, GitHub e Notion, além de integração com o WhatsApp.
+Projeto de automação para envio diário e armazenamento de exercícios de lógica de programação. A automação é configurável por dificuldade, com armazenamento no MongoDB, além de integração com o Telegram.
 
-🔗 [Logic Exercises Automation](https://github.com/Eloeunice/logic-exercises-automation)
+🔗[Logic Exercises Automation](https://github.com/Eloeunice/logic-exercises-automation)
 ---
 
 ## 📈 GitHub Stats  
