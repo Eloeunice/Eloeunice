@@ -1,10 +1,9 @@
 
-# Eloeunice 
+# Eloeunice - 💻 Desenvolvedora Back-End em formação
 
-## 💻 Futura Desenvolvedora Back-End | API | SQL | Node.js
-
-Atualmente em transição para o desenvolvimento back-end, com foco em **APIs, SQL e automação de processos**.  
-Busco aprimorar minhas habilidades em **Node.js, Express, MongoDB e PostgreSQL**.  
+Sou apaixonada por tecnologia e resolução de problemas.  
+Atualmente estou em transição de carreira, focada em desenvolvimento back-end e automação de processos.  
+Estou construindo projetos que resolvem problemas reais enquanto busco uma oportunidade como desenvolvedora júnior.
 
 ✨ Apaixonada por aprender e criar projetos a partir de necessidades observadas.
 
@@ -28,20 +27,24 @@ Busco aprimorar minhas habilidades em **Node.js, Express, MongoDB e PostgreSQL**
 
 ## 🗂️ Projetos Recentes  
 
-### 📚 **API de Biblioteca**  
-Desenvolvi uma API REST para gerenciamento de livros, autores e empréstimos. Utilizei **Node.js, Express e MongoDB**, além de testes no **Postman** para garantir a funcionalidade das rotas.  
+## 📚 **API de Biblioteca**  
+API RESTful para gerenciar livros, autores e empréstimos de uma biblioteca.  
+Desenvolvida com **Node.js**, **Express** e **MongoDB**, com testes e validações feitas no **Postman**.  
+Projeto voltado à prática de rotas REST, estrutura modular e persistência de dados.
 
 🔗[Biblioteca Express](https://github.com/Eloeunice/Biblioteca-Express)  
 ---
 
-### 🚀 **Logic Exercises Automation**
+##🚀 **Logic Exercises Automation**
 
-Projeto de automação para envio diário e armazenamento de exercícios de lógica de programação. A automação é configurável por dificuldade, com armazenamento no MongoDB, além de integração com o Telegram.
+Sistema de automação para envio diário de exercícios de lógica de programação via **Telegram**.  
+Permite configurar dificuldade, salvar os exercícios no **MongoDB** e acompanhar o status de envio.  
+Utiliza **Node.js**, integração com API do Telegram, e organização orientada a serviços.
 
 🔗[Logic Exercises Automation](https://github.com/Eloeunice/logic-exercises-automation)
 ---
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eloeunice&theme=transparent&bg_color=90EE90&border_color=000C&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Eloeunice&layout=compact&bg_color=000&border_color=FFFFFF&title_color=90EE90&text_color=FFF)  
+![Eloeunice's Stats](https://github-readme-stats.vercel.app/api?username=Eloeunice&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
