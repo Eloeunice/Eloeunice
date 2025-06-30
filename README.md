@@ -35,7 +35,7 @@ Projeto voltado à prática de rotas REST, estrutura modular e persistência de 
 🔗[Biblioteca Express](https://github.com/Eloeunice/Biblioteca-Express)  
 ---
 
-##🚀 **Logic Exercises Automation**
+## 🚀 **Logic Exercises Automation**
 
 Sistema de automação para envio diário de exercícios de lógica de programação via **Telegram**.  
 Permite configurar dificuldade, salvar os exercícios no **MongoDB** e acompanhar o status de envio.  
