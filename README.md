@@ -1,7 +1,6 @@
 
 # Eloeunice - 💻 Desenvolvedora Back-End em formação
 
-Sou apaixonada por tecnologia e resolução de problemas.  
 Atualmente estou em transição de carreira, focada em desenvolvimento back-end e automação de processos.  
 Estou construindo projetos que resolvem problemas reais enquanto busco uma oportunidade como desenvolvedora júnior.
 
